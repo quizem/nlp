@@ -1,1 +1,2 @@
-
+# Words
+The first steps with natural language processing lie with understanding the basic units of text data – words. Because for any single document, words (in various forms) are combined to develop an idea or a concept. In this workbook, I demonstrate how you can take any arbitrary piece of text and extract tokens for further. I also introduce some powerful nlp tools that you can deploy in performing tasks as simple as tokenization to even more sophisticated ones such as dependency parsing, named entity extraction etc
