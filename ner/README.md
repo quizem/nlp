@@ -1,1 +1,2 @@
-
+# Named Entity REcognition
+Usually, a piece of text document is full of references to people, places, organizations and other entities (NOTE that entities can include such things as currency, numbers etc in addition to the ones we include in our little demo here). We want to be able to automatically retrieve this information. Perhaps we can then ask why some entites are referenced more times than others.  
